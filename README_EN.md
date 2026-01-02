@@ -9,7 +9,7 @@ This license applies to the following fonts:
 
 - **Angle**
 - **Nikoichi**
-- Other fonts distributed by toktaro fonts
+- Other fonts distributed and sold by toktaro fonts
 
 [toktaro fonts (Booth)](https://toktaro.booth.pm/)
 
