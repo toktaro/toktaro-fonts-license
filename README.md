@@ -9,7 +9,7 @@ toktaro fonts（とくたろフォント）が公開・販売しているフォ�
 
 - **アングル**
 - **ニコイチ**
-- その他、toktaro fontsから配布されるフォント
+- その他、toktaro fontsにて配布・販売されているフォント
 
 [toktaro fonts (Booth)](https://toktaro.booth.pm/)
 
