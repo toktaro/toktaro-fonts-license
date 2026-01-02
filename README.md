@@ -8,7 +8,7 @@ toktaro fonts（とくたろフォント）が公開・販売しているフォ�
 本ライセンスは以下のフォントに適用されます。
 
 - **アングル**
-- **ニコイチ）**
+- **ニコイチ**
 - その他、toktaro fontsから配布されるフォント
 
 [toktaro fonts (Booth)](https://toktaro.booth.pm/)
