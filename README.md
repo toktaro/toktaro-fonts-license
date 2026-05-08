@@ -12,6 +12,7 @@ toktaro fonts（とくたろフォント）が公開・販売しているフォ�
 - その他、toktaro fontsにて配布・販売されているフォント
 
 [toktaro fonts (Booth)](https://toktaro.booth.pm/)
+
 [toktaro fonts (Gumroad)](https://toktarofonts.gumroad.com/)
 
 ## License Summary
