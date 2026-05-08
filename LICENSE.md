@@ -20,10 +20,11 @@ toktaro fontsが配布・販売しているフォント（以下「当フォン�
 **無料版（お試し版）**
 - 個人利用が可能です。
 - **商用利用について**:
-    - 以下のアカウントのいずれかをフォローすることで、無料版でも商用利用が可能になります。
-    - X（旧Twitter）のアカウント（[@toktaro](https://x.com/toktaro)）
-    - Instagramのアカウント（[@tok.taro](https://www.instagram.com/tok.taro/)）
-    - Boothのアカウント（[toktaro fonts](https://toktaro.booth.pm/)）
+    - 以下のアカウントのいずれかをフォロー・購読することで、無料版でも商用利用が可能になります。
+    - X（旧Twitter）: [@toktaro](https://x.com/toktaro)
+    - Instagram: [@tok.taro](https://www.instagram.com/tok.taro/)
+    - Booth: [toktaro fonts](https://toktaro.booth.pm/)
+    - Gumroad: [toktaro fonts](https://toktarofonts.gumroad.com/)
 
 ---
 
