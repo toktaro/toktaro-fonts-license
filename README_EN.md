@@ -13,6 +13,9 @@ This license applies to the following fonts:
 
 [toktaro fonts (Booth)](https://toktaro.booth.pm/)
 
+[toktaro fonts (Gumroad)](https://toktarofonts.gumroad.com/)
+
+
 ## License Summary
 This is a summary of the Terms of Use. Please be sure to read the full [LICENSE](LICENSE_EN.md).
 
