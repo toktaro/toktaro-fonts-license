@@ -24,10 +24,11 @@ Please be sure to read this before downloading, purchasing, or using.
 **Free Version (Trial)**
 - Available for Personal use.
 - **About Commercial Use**:
-    - Commercial use is allowed even with the Free Version by following **any** of the accounts below:
-    - X (formerly Twitter) account ([@toktaro](https://x.com/toktaro))
-    - Instagram account ([@tok.taro](https://www.instagram.com/tok.taro/))
-    - Booth account ([toktaro fonts](https://toktaro.booth.pm/))
+    - You may use the Free Version for commercial purposes, provided that you follow or subscribe to at least one of the following accounts:
+    - X (formerly Twitter): [@toktaro](https://x.com/toktaro)
+    - Instagram: [@tok.taro](https://www.instagram.com/tok.taro/)
+    - BOOTH: [toktaro fonts](https://toktaro.booth.pm/)
+    - Gumroad: [toktaro fonts](https://toktarofonts.gumroad.com/)
 
 ---
 
